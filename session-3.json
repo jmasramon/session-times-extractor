@@ -1,0 +1,286 @@
+{
+  "tenantId" : "ywo11236",
+  "visitId" : "GMFTQUHGCIBUKFUEUHVQTURDHICLEHVV-0",
+  "startTime" : 1634939429346,
+  "endTime" : 1634939432705,
+  "duration" : 3359,
+  "visitorId" : "16349339683415UOOF6QUO5VTQAC1B5OMMMD4R9LHQC9J",
+  "visitTypeSerial" : 3,
+  "applicationTypeSerial" : 1,
+  "bounce" : false,
+  "newVisitor" : false,
+  "hybrid" : false,
+  "userActionCount" : 2,
+  "totalErrorCount" : 1,
+  "totalLicenseCreditCount" : 1,
+  "numberOfRageClicks" : 0,
+  "numberOfRageTaps" : 0,
+  "matchingConversionGoalIdsCount" : 0,
+  "ip" : "82.40.254.0",
+  "geolocationContinentId" : "GEOLOCATION-EF77F2A17134795A",
+  "geolocationContinentName" : "Europe",
+  "geolocationCountryId" : "GEOLOCATION-F8DA24C9DD4B91E0",
+  "geolocationCountryName" : "United Kingdom",
+  "geolocationRegionId" : "GEOLOCATION-7241FE6FD2BAF27E",
+  "geolocationRegionCode" : "Q4",
+  "geolocationRegionName" : "Worcestershire",
+  "geolocationCityId" : "GEOLOCATION-235030E68EE70436",
+  "geolocationCityName" : "Kidderminster",
+  "browserTypeId" : "BROWSER-1D597E38A66F160E",
+  "browserTypeName" : "Mobile Browser",
+  "browserFamilyId" : "BROWSER-1ACF727C4A75B9CD",
+  "browserFamilyName" : "Safari mobile",
+  "browserMajorVersionId" : "BROWSER-39E4AAAE67205991",
+  "browserMajorVersionName" : "Safari mobile 13",
+  "osFamilyId" : "OS-62028BEE737F03D4",
+  "osFamilyName" : "iOS",
+  "osVersionId" : "OS-FEDFB2D124C94B30",
+  "osVersionName" : "iOS 13",
+  "userActions" : [ {
+    "name" : "loading of page /restaurants/<region>/<outlet>/tablebooking",
+    "domain" : "www.tobycarvery.co.uk",
+    "targetUrl" : "https://www.tobycarvery.co.uk/restaurants/midlands/kingsnortonbirmingham/tablebooking",
+    "typeSerial" : 1,
+    "startTime" : 1634939429346,
+    "endTime" : 1634939432705,
+    "duration" : 3359,
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "isEntryAction" : true,
+    "isExitAction" : false,
+    "apdexTypeSerial" : 1,
+    "matchingConversionGoalIds" : [ "3739562d-61ee-4c80-8e22-00fe9b7bf21b" ],
+    "networkTime" : 11,
+    "serverTime" : 42,
+    "frontendTime" : 3306,
+    "documentInteractiveTime" : 225,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "domCompleteTime" : 3339,
+    "domContentLoadedTime" : 544,
+    "loadEventStart" : 3343,
+    "loadEventEnd" : 3359,
+    "navigationStart" : 1634939429346,
+    "navigationStartTime" : 1634939429346,
+    "requestStart" : 1,
+    "responseStart" : 43,
+    "responseEnd" : 53,
+    "visuallyCompleteTime" : 112,
+    "speedIndex" : 100,
+    "clientTime" : 1634933970475,
+    "internalKeyUserActionId" : "APPLICATION_METHOD-0F0DC6C00C3AE863",
+    "keyUserAction" : true,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "service_mode",
+      "value" : "TB"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    }, {
+      "key" : "tip_amount",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 8,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 1,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Load|www.tobycarvery.co.uk|loading of page /restaurants/<region>/<outlet>/tablebooking"
+  }, {
+    "name" : "scroll on - /cborms/pub/brands/<brand_id>/outlets/<bun_code>",
+    "domain" : "www.tobycarvery.co.uk",
+    "targetUrl" : "https://www.tobycarvery.co.uk/restaurants/midlands/kingsnortonbirmingham/tablebooking",
+    "typeSerial" : 2,
+    "startTime" : 1634939429559,
+    "endTime" : 1634939431080,
+    "duration" : 1521,
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "isEntryAction" : false,
+    "isExitAction" : true,
+    "apdexTypeSerial" : 1,
+    "networkTime" : 2,
+    "serverTime" : 61,
+    "frontendTime" : 1458,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "navigationStart" : 1634939429565,
+    "navigationStartTime" : 1634939429565,
+    "requestStart" : 0,
+    "responseStart" : 61,
+    "responseEnd" : 63,
+    "visuallyCompleteTime" : 314,
+    "speedIndex" : 314,
+    "clientTime" : 1634933970704,
+    "keyUserAction" : false,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "service_mode",
+      "value" : "TB"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    }, {
+      "key" : "tip_amount",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 8,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 0,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Xhr|www.tobycarvery.co.uk|scroll on - /cborms/pub/brands/<brand_id>/outlets/<bun_code>"
+  } ],
+  "events" : [ {
+    "typeSerial" : 8,
+    "name" : "Page change",
+    "startTime" : 1634939429346,
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "numberOfTaps" : 0,
+    "rageTapDuration" : 0,
+    "clientTimeInMillis" : 1634933970475,
+    "targetViewName" : "/restaurants/midlands/kingsnortonbirmingham/tablebooking",
+    "targetViewGroup" : "/restaurants/midlands/kingsnortonbirmingham/tablebooking"
+  } ],
+  "screenHeight" : 896,
+  "screenWidth" : 414,
+  "clientHeight" : 719,
+  "clientWidth" : 414,
+  "screenOrientationSerial" : 3,
+  "displayResolutionSerial" : 56,
+  "isp" : "Virgin Media",
+  "clientType" : "Mobile Browser",
+  "stringProperties" : [ {
+    "key" : "booking_complete",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  }, {
+    "key" : "outlet_buncode",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "52353"
+  }, {
+    "key" : "alt_venue",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  }, {
+    "key" : "web_referrer",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "https://www.tobycarvery.co.uk/restaurants/midlands/kingsnortonbirmingham?utm_source=google&utm_mediu"
+  }, {
+    "key" : "no_availability_message",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  }, {
+    "key" : "large_party_enquiry",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  }, {
+    "key" : "outlet_id",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "236"
+  }, {
+    "key" : "booking_deposit_required",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  }, {
+    "key" : "robots_content",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "index, follow"
+  }, {
+    "key" : "brand_name",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "Toby Carvery"
+  }, {
+    "key" : "service_mode",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "TB"
+  }, {
+    "key" : "large_party_booking",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : "0"
+  } ],
+  "doubleProperties" : [ {
+    "key" : "payment_count_reversed",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  }, {
+    "key" : "basket_total_goods",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_cancelled",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  }, {
+    "key" : "voucher_amount",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  }, {
+    "key" : "tip_amount",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_declined",
+    "applicationId" : "[MAB] - [AEM] - Toby Carvery",
+    "encodedApplicationId" : "APPLICATION-6C1D2D757B2963E9",
+    "value" : 0.0
+  } ],
+  "endReasonSerial" : 1,
+  "applicationIds" : [ "[MAB] - [AEM] - Toby Carvery" ],
+  "encodedApplicationIds" : [ "APPLICATION-6C1D2D757B2963E9" ],
+  "uxScoreSerial" : 3,
+  "connectionTypeSerial" : 0,
+  "hasError" : true,
+  "visitStore2" : true,
+  "usesDoNotTrack" : false,
+  "hasVisualReplay" : false
+}

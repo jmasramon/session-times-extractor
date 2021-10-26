@@ -1,0 +1,12 @@
+{
+  "userActions.0.startTime": 1634939429346,
+  "userActions.0.endTime": 1634939432705,
+  "userActions.0.frontendTime": 3306,
+  "userActions.0.clientTime": 1634933970475,
+  "userActions.1.startTime": 1634939429559,
+  "userActions.1.endTime": 1634939431080,
+  "userActions.1.frontendTime": 1458,
+  "userActions.1.clientTime": 1634933970704,
+  "events.0.startTime": 1634939429346,
+  "events.0.clientTimeInMillis": 1634933970475
+}
