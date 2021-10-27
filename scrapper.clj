@@ -53,7 +53,7 @@
   [d]
   (let [files (return-only-times-file-list d)]
     (doseq [file files]
-      (println "converting file: " file)
+      (println "converting file: " file " to human readable times")
       (convertFile file))))
 
 (defn output-file
@@ -69,6 +69,8 @@
         (sh "./time-extractor.sh" (str file) new-file)))))
 
 (defn -main [& args]
+  ;; (sh "ls")
+  ;; (sh "./time-extractor.sh" "./session-2.json" "./times-only-2.json")
   (json-to-flatten-times ".")
   (convert-all-files "."))
 

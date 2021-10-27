@@ -1,6 +1,5 @@
 .calva/
 .clj-kondo/
-.devcontainer/
 .lsp/
 ./target
 .nrepl-port
