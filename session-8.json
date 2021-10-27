@@ -1,0 +1,202 @@
+{
+  "tenantId" : "ywo11236",
+  "visitId" : "LSPMMDAQEAGMKAJWAHVHMIVCPDEIAGVR-0",
+  "startTime" : 1635184137457,
+  "endTime" : 1635184153123,
+  "duration" : 15666,
+  "visitorId" : "16351841101603BOO29INOGTJ086FV3CDMPMGCM8O5H7M",
+  "visitTypeSerial" : 3,
+  "applicationTypeSerial" : 1,
+  "bounce" : true,
+  "newVisitor" : true,
+  "hybrid" : false,
+  "userActionCount" : 1,
+  "totalErrorCount" : 0,
+  "totalLicenseCreditCount" : 0,
+  "numberOfRageClicks" : 0,
+  "numberOfRageTaps" : 0,
+  "matchingConversionGoalIdsCount" : 0,
+  "ip" : "85.255.234.0",
+  "geolocationContinentId" : "GEOLOCATION-EF77F2A17134795A",
+  "geolocationContinentName" : "Europe",
+  "geolocationCountryId" : "GEOLOCATION-F8DA24C9DD4B91E0",
+  "geolocationCountryName" : "United Kingdom",
+  "browserTypeId" : "BROWSER-1D597E38A66F160E",
+  "browserTypeName" : "Mobile Browser",
+  "browserFamilyId" : "BROWSER-1ACF727C4A75B9CD",
+  "browserFamilyName" : "Safari mobile",
+  "browserMajorVersionId" : "BROWSER-00A755B1438A6976",
+  "browserMajorVersionName" : "Safari mobile 14",
+  "osFamilyId" : "OS-62028BEE737F03D4",
+  "osFamilyName" : "iOS",
+  "osVersionId" : "OS-29D714CF24B25C3C",
+  "osVersionName" : "iOS 14",
+  "userActions" : [ {
+    "name" : "loading of page /bookings",
+    "domain" : "www.nicholsonspubs.co.uk",
+    "targetUrl" : "https://www.nicholsonspubs.co.uk/bookings?utm_source=hermes&utm_medium=email&utm_content=08%3A%20Segment&utm_campaign=20211025_NIC_DNLaunch_TAC",
+    "typeSerial" : 1,
+    "startTime" : 1635184137457,
+    "endTime" : 1635184153123,
+    "duration" : 15666,
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "isEntryAction" : true,
+    "isExitAction" : true,
+    "apdexTypeSerial" : 2,
+    "matchingConversionGoalIds" : [ "603facb2-d56c-4dff-9d5e-50d03615dee2" ],
+    "networkTime" : 468,
+    "serverTime" : 98,
+    "frontendTime" : 15100,
+    "documentInteractiveTime" : 8837,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "domCompleteTime" : 15656,
+    "domContentLoadedTime" : 8850,
+    "loadEventStart" : 15657,
+    "loadEventEnd" : 15666,
+    "navigationStart" : 1635184137457,
+    "navigationStartTime" : 1635184137457,
+    "requestStart" : 433,
+    "responseStart" : 531,
+    "responseEnd" : 566,
+    "visuallyCompleteTime" : 8834,
+    "speedIndex" : 1286,
+    "clientTime" : 1635184109363,
+    "internalKeyUserActionId" : "APPLICATION_METHOD-AFC955D4CE782211",
+    "keyUserAction" : true,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "robots_content",
+      "value" : "index, follow"
+    }, {
+      "key" : "no_availability_message",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 8,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 0,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Load|www.nicholsonspubs.co.uk|loading of page /bookings"
+  } ],
+  "events" : [ {
+    "typeSerial" : 8,
+    "name" : "Page change",
+    "startTime" : 1635184137457,
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "numberOfTaps" : 0,
+    "rageTapDuration" : 0,
+    "clientTimeInMillis" : 1635184109363,
+    "targetViewName" : "/bookings",
+    "targetViewGroup" : "/bookings"
+  } ],
+  "screenHeight" : 568,
+  "screenWidth" : 320,
+  "clientHeight" : 438,
+  "clientWidth" : 320,
+  "screenOrientationSerial" : 3,
+  "displayResolutionSerial" : 55,
+  "isp" : "Vodafone",
+  "clientType" : "Mobile Browser",
+  "stringProperties" : [ {
+    "key" : "booking_deposit_required",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  }, {
+    "key" : "no_availability_message",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  }, {
+    "key" : "large_party_booking",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  }, {
+    "key" : "brand_name",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "Nicholsons"
+  }, {
+    "key" : "web_utm_medium",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "email"
+  }, {
+    "key" : "booking_complete",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  }, {
+    "key" : "large_party_enquiry",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  }, {
+    "key" : "alt_venue",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : "0"
+  } ],
+  "doubleProperties" : [ {
+    "key" : "tip_amount",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_declined",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  }, {
+    "key" : "basket_total_goods",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  }, {
+    "key" : "voucher_amount",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_reversed",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_cancelled",
+    "applicationId" : "[MAB] - [AEM] - Nicholsons Pubs",
+    "encodedApplicationId" : "APPLICATION-22A67BD3EFDCF578",
+    "value" : 0.0
+  } ],
+  "endReasonSerial" : 1,
+  "applicationIds" : [ "[MAB] - [AEM] - Nicholsons Pubs" ],
+  "encodedApplicationIds" : [ "APPLICATION-22A67BD3EFDCF578" ],
+  "uxScoreSerial" : 2,
+  "connectionTypeSerial" : 0,
+  "hasError" : false,
+  "visitStore2" : true,
+  "usesDoNotTrack" : false,
+  "hasVisualReplay" : false
+}

@@ -1,0 +1,213 @@
+{
+  "tenantId" : "ywo11236",
+  "visitId" : "JNFNMQHDSMWCCQRCDHISCIHMMDNPUKFB-0",
+  "startTime" : 1635150696074,
+  "endTime" : 1635150704338,
+  "duration" : 8264,
+  "visitorId" : "16351491535509T49HSTAUPNCHG0BJ9AONEVHKG5G8KNT",
+  "visitTypeSerial" : 3,
+  "applicationTypeSerial" : 1,
+  "bounce" : true,
+  "newVisitor" : true,
+  "hybrid" : false,
+  "userActionCount" : 1,
+  "totalErrorCount" : 0,
+  "totalLicenseCreditCount" : 0,
+  "numberOfRageClicks" : 0,
+  "numberOfRageTaps" : 0,
+  "matchingConversionGoalIdsCount" : 0,
+  "ip" : "172.29.242.13",
+  "browserTypeId" : "BROWSER-1C0C3858CD11FF0F",
+  "browserTypeName" : "Tablet Browser",
+  "browserFamilyId" : "BROWSER-0F1F7F60A11EA5A4",
+  "browserFamilyName" : "Safari mobile",
+  "browserMajorVersionId" : "BROWSER-13327B2CA4CD307E",
+  "browserMajorVersionName" : "Safari mobile 12",
+  "osFamilyId" : "OS-62028BEE737F03D4",
+  "osFamilyName" : "iOS",
+  "osVersionId" : "OS-F159F7589C627517",
+  "osVersionName" : "iOS 12",
+  "userActions" : [ {
+    "name" : "loading of page /menu-offer",
+    "domain" : "www.thebramptonmill.co.uk",
+    "targetUrl" : "https://www.thebramptonmill.co.uk/menu-offer?utm_source=hermes&utm_medium=email&utm_content=07%3A%20Segment&utm_campaign=20211020_PCP_NewMenu_TAC",
+    "typeSerial" : 1,
+    "startTime" : 1635150696074,
+    "endTime" : 1635150704338,
+    "duration" : 8264,
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "isEntryAction" : true,
+    "isExitAction" : true,
+    "apdexTypeSerial" : 2,
+    "networkTime" : 910,
+    "serverTime" : 29,
+    "frontendTime" : 7325,
+    "documentInteractiveTime" : 5575,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "domCompleteTime" : 7968,
+    "domContentLoadedTime" : 5687,
+    "loadEventStart" : 7981,
+    "loadEventEnd" : 8264,
+    "navigationStart" : 1635150696074,
+    "navigationStartTime" : 1635150696074,
+    "requestStart" : 381,
+    "responseStart" : 410,
+    "responseEnd" : 939,
+    "visuallyCompleteTime" : 4227,
+    "speedIndex" : 3914,
+    "clientTime" : 1635149150469,
+    "keyUserAction" : false,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "robots_content",
+      "value" : "index, follow"
+    }, {
+      "key" : "no_availability_message",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    }, {
+      "key" : "tip_amount",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 9,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 0,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Load|www.thebramptonmill.co.uk|loading of page /menu-offer"
+  } ],
+  "events" : [ {
+    "typeSerial" : 8,
+    "name" : "Page change",
+    "startTime" : 1635150696074,
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "numberOfTaps" : 0,
+    "rageTapDuration" : 0,
+    "clientTimeInMillis" : 1635149150469,
+    "targetViewName" : "/menu-offer",
+    "targetViewGroup" : "/menu-offer"
+  } ],
+  "screenHeight" : 1024,
+  "screenWidth" : 768,
+  "clientHeight" : 666,
+  "clientWidth" : 1024,
+  "screenOrientationSerial" : 3,
+  "displayResolutionSerial" : 7,
+  "clientType" : "Tablet Browser",
+  "stringProperties" : [ {
+    "key" : "large_party_enquiry",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  }, {
+    "key" : "web_utm_medium",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "email"
+  }, {
+    "key" : "alt_venue",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  }, {
+    "key" : "outlet_id",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "1144"
+  }, {
+    "key" : "no_availability_message",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  }, {
+    "key" : "web_utm_source",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "hermes"
+  }, {
+    "key" : "large_party_booking",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  }, {
+    "key" : "outlet_buncode",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "203823"
+  }, {
+    "key" : "booking_complete",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  }, {
+    "key" : "web_utm_campaign",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "20211020_PCP_NewMenu_TAC"
+  }, {
+    "key" : "booking_deposit_required",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : "0"
+  } ],
+  "doubleProperties" : [ {
+    "key" : "payment_count_cancelled",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_reversed",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  }, {
+    "key" : "basket_total_goods",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  }, {
+    "key" : "voucher_amount",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  }, {
+    "key" : "tip_amount",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_declined",
+    "applicationId" : "[MAB] - [AEM] -  PCP",
+    "encodedApplicationId" : "APPLICATION-9483369F10038900",
+    "value" : 0.0
+  } ],
+  "endReasonSerial" : 1,
+  "applicationIds" : [ "[MAB] - [AEM] -  PCP" ],
+  "encodedApplicationIds" : [ "APPLICATION-9483369F10038900" ],
+  "uxScoreSerial" : 2,
+  "connectionTypeSerial" : 0,
+  "hasError" : false,
+  "visitStore2" : true,
+  "usesDoNotTrack" : false,
+  "hasVisualReplay" : false
+}

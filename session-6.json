@@ -1,0 +1,206 @@
+{
+  "tenantId" : "ywo11236",
+  "visitId" : "RPNRRQKPFKKTUPRETQSUOKVCNEQQLMTC-0",
+  "startTime" : 1635165071430,
+  "endTime" : 1635165107574,
+  "duration" : 36144,
+  "visitorId" : "1635161321185KKHPD0ADM8MUI64KFKVH16B8GNAFEP4D",
+  "visitTypeSerial" : 3,
+  "applicationTypeSerial" : 1,
+  "bounce" : true,
+  "newVisitor" : true,
+  "hybrid" : false,
+  "userActionCount" : 1,
+  "totalErrorCount" : 0,
+  "totalLicenseCreditCount" : 0,
+  "numberOfRageClicks" : 0,
+  "numberOfRageTaps" : 0,
+  "matchingConversionGoalIdsCount" : 0,
+  "ip" : "2a00:23c4:2218:0:0:0:0:0",
+  "geolocationContinentId" : "GEOLOCATION-EF77F2A17134795A",
+  "geolocationContinentName" : "Europe",
+  "geolocationCountryId" : "GEOLOCATION-F8DA24C9DD4B91E0",
+  "geolocationCountryName" : "United Kingdom",
+  "geolocationRegionId" : "GEOLOCATION-6220761370BFD314",
+  "geolocationRegionCode" : "D6",
+  "geolocationRegionName" : "Dorset",
+  "geolocationCityId" : "GEOLOCATION-485E10ED0194D8CC",
+  "geolocationCityName" : "Wimborne Minster",
+  "browserTypeId" : "BROWSER-1D597E38A66F160E",
+  "browserTypeName" : "Mobile Browser",
+  "browserFamilyId" : "BROWSER-1ACF727C4A75B9CD",
+  "browserFamilyName" : "Safari mobile",
+  "browserMajorVersionId" : "BROWSER-00A755B1438A6976",
+  "browserMajorVersionName" : "Safari mobile 14",
+  "osFamilyId" : "OS-62028BEE737F03D4",
+  "osFamilyName" : "iOS",
+  "osVersionId" : "OS-29D714CF24B25C3C",
+  "osVersionName" : "iOS 14",
+  "userActions" : [ {
+    "name" : "loading of page /",
+    "domain" : "www.harvester.co.uk",
+    "targetUrl" : "https://www.harvester.co.uk/",
+    "typeSerial" : 1,
+    "startTime" : 1635165071430,
+    "endTime" : 1635165107574,
+    "duration" : 36144,
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "isEntryAction" : true,
+    "isExitAction" : true,
+    "apdexTypeSerial" : 3,
+    "networkTime" : 1487,
+    "serverTime" : 143,
+    "frontendTime" : 34514,
+    "documentInteractiveTime" : 18623,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "domCompleteTime" : 36075,
+    "domContentLoadedTime" : 18863,
+    "loadEventStart" : 36086,
+    "loadEventEnd" : 36144,
+    "navigationStart" : 1635165071430,
+    "navigationStartTime" : 1635165071430,
+    "requestStart" : 1419,
+    "responseStart" : 1562,
+    "responseEnd" : 1630,
+    "visuallyCompleteTime" : 32598,
+    "speedIndex" : 17379,
+    "clientTime" : 1635161318350,
+    "internalKeyUserActionId" : "APPLICATION_METHOD-BE2E07DC2D234F2A",
+    "keyUserAction" : true,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "no_availability_message",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    }, {
+      "key" : "tip_amount",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 8,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 0,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Load|www.harvester.co.uk|loading of page /"
+  } ],
+  "events" : [ {
+    "typeSerial" : 8,
+    "name" : "Page change",
+    "startTime" : 1635165071430,
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "numberOfTaps" : 0,
+    "rageTapDuration" : 0,
+    "clientTimeInMillis" : 1635161318350,
+    "targetViewName" : "/",
+    "targetViewGroup" : "/"
+  } ],
+  "screenHeight" : 896,
+  "screenWidth" : 414,
+  "clientHeight" : 715,
+  "clientWidth" : 414,
+  "screenOrientationSerial" : 3,
+  "displayResolutionSerial" : 56,
+  "isp" : "BT",
+  "clientType" : "Mobile Browser",
+  "stringProperties" : [ {
+    "key" : "no_availability_message",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  }, {
+    "key" : "robots_content",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "index, follow"
+  }, {
+    "key" : "brand_name",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "Harvester"
+  }, {
+    "key" : "large_party_enquiry",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  }, {
+    "key" : "alt_venue",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  }, {
+    "key" : "booking_deposit_required",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  }, {
+    "key" : "booking_complete",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  }, {
+    "key" : "large_party_booking",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : "0"
+  } ],
+  "doubleProperties" : [ {
+    "key" : "basket_total_goods",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  }, {
+    "key" : "tip_amount",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_reversed",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_cancelled",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_declined",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  }, {
+    "key" : "voucher_amount",
+    "applicationId" : "[MAB] - [AEM] - Harvester",
+    "encodedApplicationId" : "APPLICATION-4B2DE49692903CBF",
+    "value" : 0.0
+  } ],
+  "endReasonSerial" : 1,
+  "applicationIds" : [ "[MAB] - [AEM] - Harvester" ],
+  "encodedApplicationIds" : [ "APPLICATION-4B2DE49692903CBF" ],
+  "uxScoreSerial" : 1,
+  "connectionTypeSerial" : 0,
+  "hasError" : false,
+  "visitStore2" : true,
+  "usesDoNotTrack" : false,
+  "hasVisualReplay" : false
+}

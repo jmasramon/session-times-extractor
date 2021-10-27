@@ -1,0 +1,193 @@
+{
+  "tenantId" : "ywo11236",
+  "visitId" : "ENRTRVPKAHFLFCLNFVOLVSJMIGFCTLRU-0",
+  "startTime" : 1635156230783,
+  "endTime" : 1635156261516,
+  "duration" : 30733,
+  "visitorId" : "1635156247237CJ4ATUG5AAA0HV8HDIB3RHJ6ARV9O4U8",
+  "visitTypeSerial" : 3,
+  "applicationTypeSerial" : 1,
+  "bounce" : true,
+  "newVisitor" : true,
+  "hybrid" : false,
+  "userActionCount" : 1,
+  "totalErrorCount" : 0,
+  "totalLicenseCreditCount" : 0,
+  "numberOfRageClicks" : 0,
+  "numberOfRageTaps" : 0,
+  "matchingConversionGoalIdsCount" : 0,
+  "ip" : "172.29.242.90",
+  "browserTypeId" : "BROWSER-44C8EFE87C847CA6",
+  "browserTypeName" : "Desktop Browser",
+  "browserFamilyId" : "BROWSER-2A6F794139C73155",
+  "browserFamilyName" : "Safari",
+  "browserMajorVersionId" : "BROWSER-D548C92A45D2735E",
+  "browserMajorVersionName" : "Safari 13",
+  "osFamilyId" : "OS-4FB094A267DA6EAB",
+  "osFamilyName" : "macOS",
+  "osVersionId" : "OS-51B9D549980A7D76",
+  "osVersionName" : "macOS 10.15 Catalina",
+  "userActions" : [ {
+    "name" : "loading of page /breakfast",
+    "domain" : "www.themaidofmuswell.co.uk",
+    "targetUrl" : "https://www.themaidofmuswell.co.uk/breakfast",
+    "typeSerial" : 1,
+    "startTime" : 1635156230783,
+    "endTime" : 1635156261516,
+    "duration" : 30733,
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "isEntryAction" : true,
+    "isExitAction" : true,
+    "apdexTypeSerial" : 3,
+    "networkTime" : 174,
+    "serverTime" : 960,
+    "frontendTime" : 29599,
+    "documentInteractiveTime" : 29061,
+    "thirdPartyResources" : 0,
+    "cdnResources" : 0,
+    "firstPartyResources" : 0,
+    "domCompleteTime" : 30470,
+    "domContentLoadedTime" : 29236,
+    "loadEventStart" : 30520,
+    "loadEventEnd" : 30619,
+    "navigationStart" : 1635156230783,
+    "navigationStartTime" : 1635156230783,
+    "requestStart" : 174,
+    "responseStart" : 1134,
+    "responseEnd" : 1134,
+    "clientTime" : 1635156230752,
+    "keyUserAction" : false,
+    "stringProperties" : [ {
+      "key" : "alt_venue",
+      "value" : "0"
+    }, {
+      "key" : "booking_deposit_required",
+      "value" : "0"
+    }, {
+      "key" : "large_party_enquiry",
+      "value" : "0"
+    }, {
+      "key" : "robots_content",
+      "value" : "index, follow"
+    }, {
+      "key" : "no_availability_message",
+      "value" : "0"
+    }, {
+      "key" : "large_party_booking",
+      "value" : "0"
+    }, {
+      "key" : "booking_complete",
+      "value" : "0"
+    } ],
+    "doubleProperties" : [ {
+      "key" : "basket_total_goods",
+      "value" : 0.0
+    } ],
+    "userActionPropertyCount" : 8,
+    "customErrorCount" : 0,
+    "javascriptErrorCount" : 0,
+    "requestErrorCount" : 0,
+    "typeDomainName" : "Load|www.themaidofmuswell.co.uk|loading of page /breakfast"
+  } ],
+  "events" : [ {
+    "typeSerial" : 8,
+    "name" : "Page change",
+    "startTime" : 1635156230783,
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "numberOfTaps" : 0,
+    "rageTapDuration" : 0,
+    "clientTimeInMillis" : 1635156230752,
+    "targetViewName" : "/breakfast",
+    "targetViewGroup" : "/breakfast"
+  } ],
+  "screenHeight" : 1024,
+  "screenWidth" : 768,
+  "clientHeight" : 0,
+  "clientWidth" : 0,
+  "screenOrientationSerial" : 3,
+  "displayResolutionSerial" : 7,
+  "clientType" : "Desktop Browser",
+  "stringProperties" : [ {
+    "key" : "booking_complete",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  }, {
+    "key" : "outlet_buncode",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "28088"
+  }, {
+    "key" : "no_availability_message",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  }, {
+    "key" : "alt_venue",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  }, {
+    "key" : "large_party_enquiry",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  }, {
+    "key" : "outlet_id",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "371"
+  }, {
+    "key" : "booking_deposit_required",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  }, {
+    "key" : "large_party_booking",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : "0"
+  } ],
+  "doubleProperties" : [ {
+    "key" : "payment_count_reversed",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  }, {
+    "key" : "basket_total_goods",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_declined",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  }, {
+    "key" : "tip_amount",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  }, {
+    "key" : "payment_count_cancelled",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  }, {
+    "key" : "voucher_amount",
+    "applicationId" : "[MAB] - [AEM] - Castle",
+    "encodedApplicationId" : "APPLICATION-8D9023F641BEB09D",
+    "value" : 0.0
+  } ],
+  "endReasonSerial" : 1,
+  "applicationIds" : [ "[MAB] - [AEM] - Castle" ],
+  "encodedApplicationIds" : [ "APPLICATION-8D9023F641BEB09D" ],
+  "uxScoreSerial" : 1,
+  "connectionTypeSerial" : 0,
+  "hasError" : false,
+  "visitStore2" : true,
+  "usesDoNotTrack" : false,
+  "hasVisualReplay" : false
+}
